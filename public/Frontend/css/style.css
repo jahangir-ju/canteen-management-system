@@ -1,0 +1,84 @@
+.headersection {
+    height: 70px;
+    background: #6c19ab;
+}
+.headersection h1 {
+    font-family: PMingLiU-ExtB;
+    font-weight: bold;
+    font-style: oblique;
+    color: #eeedf5;
+    padding: 6px;
+}
+.logo {
+    height: 70px;
+}
+.logo img {
+    height: 70px;
+    width: 100%;
+}
+.icon {
+    margin: auto;
+    margin-top: 8px;
+    float: right;
+    margin-right: 15px;
+}
+.icon a {
+    text-decoration: none;
+}
+.icon a:hover {
+    transition-duration: 0.9s;
+}
+.icon img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+.carousel-item {
+    height: 40vh;
+}
+.slider-one {
+    background: #DEE3E6;
+}
+.carousel-item h1 {
+    margin: 50px 0 20px;
+    font-weight: bold;
+    color: #404440;
+    text-align: center;
+    font-family: fantasy;
+}
+.carousel-item p {
+    margin: 20px;
+    color: #fff;
+    font-size: 13px;
+}
+.mainBody {
+    background: #F9F9F9;
+}
+.card img:hover {
+    opacity: 0.5;
+}
+.card-body {
+    background-color: #B7D6CE;
+}
+.aboutbody{
+    background-color: rgba(255, 255, 246, 0.6);
+    margin: auto;
+    padding: 20px;
+    text-align: justify;
+    font-size: larger;
+}
+.aboutbody h4{
+    color: #3619d6;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: xx-large;
+}
+.copy_right p {
+    text-align: center;
+}

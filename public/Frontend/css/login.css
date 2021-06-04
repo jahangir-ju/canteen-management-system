@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+
+body{
+	background: #e3e3e3;
+	color: #757575;
+}
+
+.addBtn{
+	color: #fff;
+    background: #0a1f33;
+    border: 1px solid #1b6eb9;
+    padding: 4px 11px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.addBtn:hover{
+	background: #0e5ca5;    
+}
+
+table.nice-table{
+	width: 100%;
+}
+
+table.nice-table tr:nth-child(2n+1){
+	background: #e7e7e7;
+}
+
+table.nice-table tr th, table.nice-table tr td, td{
+	padding: 9px;
+}
+
+table.nice-table tr th{
+	background: #9c69a0;
+	color: #fff;
+	text-align: left;
+}
+
+input[type='text'], input[type='password']{
+	padding: 5px 9px;
+    background: #fff;
+    border: 1px solid #cacaca;
+    border-radius: 2px;
+}
+
+.login{
+	width: 377px;
+    min-height: 174px;
+    border: 1px solid #eaeaea;
+    background: #efefef;
+    margin: 111px auto;
+    border: 1px solid #cccccc;
+}
+
+.loginHeader{
+	padding: 9px 22px;
+    background: #163514;
+    color: #fff;
+    text-align: center;
+}
+
+.loginContainer{
+	padding: 22px;
+}
+
+
+
